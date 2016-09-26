@@ -1,0 +1,118 @@
+C:\Users\Computer\Desktop\FaceRecognition-master (1)\FaceRecognition-master\FaceRecognition\bin\Debug\x86\cvextern.dll
+C:\Users\Computer\Desktop\FaceRecognition-master (1)\FaceRecognition-master\FaceRecognition\bin\Debug\x86\opencv_bgsegm300.dll
+C:\Users\Computer\Desktop\FaceRecognition-master (1)\FaceRecognition-master\FaceRecognition\bin\Debug\x86\opencv_calib3d300.dll
+C:\Users\Computer\Desktop\FaceRecognition-master (1)\FaceRecognition-master\FaceRecognition\bin\Debug\x86\opencv_core300.dll
+C:\Users\Computer\Desktop\FaceRecognition-master (1)\FaceRecognition-master\FaceRecognition\bin\Debug\x86\opencv_face300.dll
+C:\Users\Computer\Desktop\FaceRecognition-master (1)\FaceRecognition-master\FaceRecognition\bin\Debug\x86\opencv_features2d300.dll
+C:\Users\Computer\Desktop\FaceRecognition-master (1)\FaceRecognition-master\FaceRecognition\bin\Debug\x86\opencv_flann300.dll
+C:\Users\Computer\Desktop\FaceRecognition-master (1)\FaceRecognition-master\FaceRecognition\bin\Debug\x86\opencv_highgui300.dll
+C:\Users\Computer\Desktop\FaceRecognition-master (1)\FaceRecognition-master\FaceRecognition\bin\Debug\x86\opencv_imgcodecs300.dll
+C:\Users\Computer\Desktop\FaceRecognition-master (1)\FaceRecognition-master\FaceRecognition\bin\Debug\x86\opencv_imgproc300.dll
+C:\Users\Computer\Desktop\FaceRecognition-master (1)\FaceRecognition-master\FaceRecognition\bin\Debug\x86\opencv_ml300.dll
+C:\Users\Computer\Desktop\FaceRecognition-master (1)\FaceRecognition-master\FaceRecognition\bin\Debug\x86\opencv_objdetect300.dll
+C:\Users\Computer\Desktop\FaceRecognition-master (1)\FaceRecognition-master\FaceRecognition\bin\Debug\x86\opencv_optflow300.dll
+C:\Users\Computer\Desktop\FaceRecognition-master (1)\FaceRecognition-master\FaceRecognition\bin\Debug\x86\opencv_photo300.dll
+C:\Users\Computer\Desktop\FaceRecognition-master (1)\FaceRecognition-master\FaceRecognition\bin\Debug\x86\opencv_reg300.dll
+C:\Users\Computer\Desktop\FaceRecognition-master (1)\FaceRecognition-master\FaceRecognition\bin\Debug\x86\opencv_rgbd300.dll
+C:\Users\Computer\Desktop\FaceRecognition-master (1)\FaceRecognition-master\FaceRecognition\bin\Debug\x86\opencv_shape300.dll
+C:\Users\Computer\Desktop\FaceRecognition-master (1)\FaceRecognition-master\FaceRecognition\bin\Debug\x86\opencv_stitching300.dll
+C:\Users\Computer\Desktop\FaceRecognition-master (1)\FaceRecognition-master\FaceRecognition\bin\Debug\x86\opencv_superres300.dll
+C:\Users\Computer\Desktop\FaceRecognition-master (1)\FaceRecognition-master\FaceRecognition\bin\Debug\x86\opencv_text300.dll
+C:\Users\Computer\Desktop\FaceRecognition-master (1)\FaceRecognition-master\FaceRecognition\bin\Debug\x86\opencv_video300.dll
+C:\Users\Computer\Desktop\FaceRecognition-master (1)\FaceRecognition-master\FaceRecognition\bin\Debug\x86\opencv_videoio300.dll
+C:\Users\Computer\Desktop\FaceRecognition-master (1)\FaceRecognition-master\FaceRecognition\bin\Debug\x86\opencv_videostab300.dll
+C:\Users\Computer\Desktop\FaceRecognition-master (1)\FaceRecognition-master\FaceRecognition\bin\Debug\x86\opencv_xfeatures2d300.dll
+C:\Users\Computer\Desktop\FaceRecognition-master (1)\FaceRecognition-master\FaceRecognition\bin\Debug\x86\opencv_ximgproc300.dll
+C:\Users\Computer\Desktop\FaceRecognition-master (1)\FaceRecognition-master\FaceRecognition\bin\Debug\x86\opencv_xobjdetect300.dll
+C:\Users\Computer\Desktop\FaceRecognition-master (1)\FaceRecognition-master\FaceRecognition\bin\Debug\haarcascade_frontalface_default.xml
+C:\Users\Computer\Desktop\FaceRecognition-master (1)\FaceRecognition-master\FaceRecognition\bin\Debug\FaceRecognition.exe
+C:\Users\Computer\Desktop\FaceRecognition-master (1)\FaceRecognition-master\FaceRecognition\bin\Debug\FaceRecognition.pdb
+C:\Users\Computer\Desktop\FaceRecognition-master (1)\FaceRecognition-master\FaceRecognition\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Computer\Desktop\FaceRecognition-master (1)\FaceRecognition-master\FaceRecognition\bin\Debug\Emgu.CV.World.dll
+C:\Users\Computer\Desktop\FaceRecognition-master (1)\FaceRecognition-master\FaceRecognition\bin\Debug\ZedGraph.dll
+C:\Users\Computer\Desktop\FaceRecognition-master (1)\FaceRecognition-master\FaceRecognition\bin\Debug\Emgu.CV.UI.pdb
+C:\Users\Computer\Desktop\FaceRecognition-master (1)\FaceRecognition-master\FaceRecognition\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Computer\Desktop\FaceRecognition-master (1)\FaceRecognition-master\FaceRecognition\bin\Debug\Emgu.CV.World.pdb
+C:\Users\Computer\Desktop\FaceRecognition-master (1)\FaceRecognition-master\FaceRecognition\bin\Debug\Emgu.CV.World.xml
+C:\Users\Computer\Desktop\FaceRecognition-master (1)\FaceRecognition-master\FaceRecognition\bin\Debug\ZedGraph.xml
+C:\Users\Computer\Desktop\FaceRecognition-master (1)\FaceRecognition-master\FaceRecognition\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+C:\Users\Computer\Desktop\FaceRecognition-master (1)\FaceRecognition-master\FaceRecognition\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\Computer\Desktop\FaceRecognition-master (1)\FaceRecognition-master\FaceRecognition\obj\x86\Debug\FaceRecognition.csprojResolveAssemblyReference.cache
+C:\Users\Computer\Desktop\FaceRecognition-master (1)\FaceRecognition-master\FaceRecognition\obj\x86\Debug\FaceRecognition.FormRecognizer.resources
+C:\Users\Computer\Desktop\FaceRecognition-master (1)\FaceRecognition-master\FaceRecognition\obj\x86\Debug\FaceRecognition.FormTraining.resources
+C:\Users\Computer\Desktop\FaceRecognition-master (1)\FaceRecognition-master\FaceRecognition\obj\x86\Debug\FaceRecognition.Properties.Resources.resources
+C:\Users\Computer\Desktop\FaceRecognition-master (1)\FaceRecognition-master\FaceRecognition\obj\x86\Debug\FaceRecognition.csproj.GenerateResource.Cache
+C:\Users\Computer\Desktop\FaceRecognition-master (1)\FaceRecognition-master\FaceRecognition\obj\x86\Debug\FaceRecognition.exe
+C:\Users\Computer\Desktop\FaceRecognition-master (1)\FaceRecognition-master\FaceRecognition\obj\x86\Debug\FaceRecognition.pdb
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\x86\cvextern.dll
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\x86\opencv_bgsegm300.dll
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\x86\opencv_calib3d300.dll
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\x86\opencv_core300.dll
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\x86\opencv_face300.dll
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\x86\opencv_features2d300.dll
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\x86\opencv_flann300.dll
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\x86\opencv_highgui300.dll
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\x86\opencv_imgcodecs300.dll
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\x86\opencv_imgproc300.dll
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\x86\opencv_ml300.dll
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\x86\opencv_objdetect300.dll
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\x86\opencv_optflow300.dll
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\x86\opencv_photo300.dll
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\x86\opencv_reg300.dll
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\x86\opencv_rgbd300.dll
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\x86\opencv_shape300.dll
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\x86\opencv_stitching300.dll
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\x86\opencv_superres300.dll
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\x86\opencv_text300.dll
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\x86\opencv_video300.dll
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\x86\opencv_videoio300.dll
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\x86\opencv_videostab300.dll
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\x86\opencv_xfeatures2d300.dll
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\x86\opencv_ximgproc300.dll
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\x86\opencv_xobjdetect300.dll
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\haarcascade_frontalface_default.xml
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\FaceRecognition.exe
+C:\Emgu\emgucv-windesktop 3.1.0.2282\bin\FaceRecognition.pdb
+C:\New\emgucv-windesktop 3.1.0.2282\bin\x86\cvextern.dll
+C:\New\emgucv-windesktop 3.1.0.2282\bin\x86\opencv_bgsegm300.dll
+C:\New\emgucv-windesktop 3.1.0.2282\bin\x86\opencv_calib3d300.dll
+C:\New\emgucv-windesktop 3.1.0.2282\bin\x86\opencv_core300.dll
+C:\New\emgucv-windesktop 3.1.0.2282\bin\x86\opencv_face300.dll
+C:\New\emgucv-windesktop 3.1.0.2282\bin\x86\opencv_features2d300.dll
+C:\New\emgucv-windesktop 3.1.0.2282\bin\x86\opencv_flann300.dll
+C:\New\emgucv-windesktop 3.1.0.2282\bin\x86\opencv_highgui300.dll
+C:\New\emgucv-windesktop 3.1.0.2282\bin\x86\opencv_imgcodecs300.dll
+C:\New\emgucv-windesktop 3.1.0.2282\bin\x86\opencv_imgproc300.dll
+C:\New\emgucv-windesktop 3.1.0.2282\bin\x86\opencv_ml300.dll
+C:\New\emgucv-windesktop 3.1.0.2282\bin\x86\opencv_objdetect300.dll
+C:\New\emgucv-windesktop 3.1.0.2282\bin\x86\opencv_optflow300.dll
+C:\New\emgucv-windesktop 3.1.0.2282\bin\x86\opencv_photo300.dll
+C:\New\emgucv-windesktop 3.1.0.2282\bin\x86\opencv_reg300.dll
+C:\New\emgucv-windesktop 3.1.0.2282\bin\x86\opencv_rgbd300.dll
+C:\New\emgucv-windesktop 3.1.0.2282\bin\x86\opencv_shape300.dll
+C:\New\emgucv-windesktop 3.1.0.2282\bin\x86\opencv_stitching300.dll
+C:\New\emgucv-windesktop 3.1.0.2282\bin\x86\opencv_superres300.dll
+C:\New\emgucv-windesktop 3.1.0.2282\bin\x86\opencv_text300.dll
+C:\New\emgucv-windesktop 3.1.0.2282\bin\x86\opencv_video300.dll
+C:\New\emgucv-windesktop 3.1.0.2282\bin\x86\opencv_videoio300.dll
+C:\New\emgucv-windesktop 3.1.0.2282\bin\x86\opencv_videostab300.dll
+C:\New\emgucv-windesktop 3.1.0.2282\bin\x86\opencv_xfeatures2d300.dll
+C:\New\emgucv-windesktop 3.1.0.2282\bin\x86\opencv_ximgproc300.dll
+C:\New\emgucv-windesktop 3.1.0.2282\bin\x86\opencv_xobjdetect300.dll
+C:\New\emgucv-windesktop 3.1.0.2282\bin\FaceRecognition.exe
+C:\New\emgucv-windesktop 3.1.0.2282\bin\FaceRecognition.pdb
+C:\New\emgucv-windesktop 3.1.0.2282\bin\haarcascade_frontalface_default.xml
+C:\Users\Computer\Desktop\FaceRec\FaceRecognition\FaceRecognition\obj\x86\Debug\FaceRecognition.csprojResolveAssemblyReference.cache
+C:\Users\Computer\Desktop\FaceRec\FaceRecognition\FaceRecognition\obj\x86\Debug\FaceRecognition.FormRecognizer.resources
+C:\Users\Computer\Desktop\FaceRec\FaceRecognition\FaceRecognition\obj\x86\Debug\FaceRecognition.FormTraining.resources
+C:\Users\Computer\Desktop\FaceRec\FaceRecognition\FaceRecognition\obj\x86\Debug\FaceRecognition.Properties.Resources.resources
+C:\Users\Computer\Desktop\FaceRec\FaceRecognition\FaceRecognition\obj\x86\Debug\FaceRecognition.csproj.GenerateResource.Cache
+C:\Users\Computer\Desktop\FaceRec\FaceRecognition\FaceRecognition\obj\x86\Debug\FaceRecognition.exe
+C:\Users\Computer\Desktop\FaceRec\FaceRecognition\FaceRecognition\obj\x86\Debug\FaceRecognition.pdb
+C:\Users\Computer\Desktop\PodstawyTele\FaceRecognition\FaceRecognition\obj\x86\Debug\FaceRecognition.exe
+C:\Users\Computer\Desktop\PodstawyTele\FaceRecognition\FaceRecognition\obj\x86\Debug\FaceRecognition.pdb
+C:\Users\Computer\Desktop\PodstawyTele\FaceRecognition\FaceRecognition\obj\x86\Debug\FaceRecognition.csprojResolveAssemblyReference.cache
+C:\Users\Computer\Desktop\PodstawyTele\FaceRecognition\FaceRecognition\obj\x86\Debug\FaceRecognition.FormRecognizer.resources
+C:\Users\Computer\Desktop\PodstawyTele\FaceRecognition\FaceRecognition\obj\x86\Debug\FaceRecognition.FormTraining.resources
+C:\Users\Computer\Desktop\PodstawyTele\FaceRecognition\FaceRecognition\obj\x86\Debug\FaceRecognition.Properties.Resources.resources
+C:\Users\Computer\Desktop\PodstawyTele\FaceRecognition\FaceRecognition\obj\x86\Debug\FaceRecognition.csproj.GenerateResource.Cache
